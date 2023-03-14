@@ -4,6 +4,6 @@ public class BuildFailCode {
 
     public static void main(String[] args) {
         
-        System.out.println("Hello Check");
+        System.out.println("Hello World")
     }
 }
