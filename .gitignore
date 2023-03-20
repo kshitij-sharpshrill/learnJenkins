@@ -1,7 +1,2 @@
-/.idea/compiler.xml
-/.idea/encodings.xml
-/.idea/sonarlint/issuestore/index.pb
-/.idea/jarRepositories.xml
-/.idea/vcs.xml
-/.idea/misc.xml
-/.idea/.gitignore
+/target/
+/.idea/
